@@ -25,9 +25,24 @@ Prueba de guardado tambien hago prueba
 
 
 
-#Extraer los conceptos generales del Modelo de Entidad Relacion
+#Extraer los conceptos generales del Modelo de Entidad Relacion.
 
-
+ El modelo entidad / relacion es el conceptual mas utilizado para el diseño conceptual de base de datos, fue creado
+por Peter Chen en 1976. Esta formado por un conjunto de conceptos que permiten describir la realidad mediante un 
+conjunto de representaciones grafica y liguistica, se puede utilizar en cualquier SGBD.
+ Entidad Se define una entidad como una unidad de una base de datos que contiene información.
+Esta unidad es una representación dentro de la base de datos de un objeto, persona, etc,
+Es cauqluquier tipo de objeto o concepto el que se recoje en informacion; objeto que posee multiples propiedades.
+En una base de datos compleja pueden existir entidades relacionadas entre sí por diversos parámetros o atributos, 
+de tal modo que la existencia de una puede ir ligada a la existencia de otra. 
+ Las relaciones entre entidades suelen describirse en el esquema de la estructura de la base de datos e incluso
+pueden agruparse entre sí para formar conjuntos de entidades.
+ El Modelo Entidad-Relación es de hecho uno de los más importantes a la hora de diseñar e implementar una base de datos con éxito.
+Mediante este modelo se relacionan una o varias entidades por sus atributos, que pueden ser comunes o no a varias de ellas.
+Algunos tipos de entidad-relacion pueden ser:
+ 1 a mucho ej: un profesor enseña a muchos alumnos
+ 1 a 1 ej: un alumno solo tiene un numero de matricula
+ mucho a mucho ej: los alumnos tienen muchas materias y las materias tienen muchos profesores.
 
 
 #Extraer los conceptos generales de El Modelo Entidad - Relacion - Modelizacion del analisis de requerimientos
