@@ -7,6 +7,11 @@ Prueba de guardado tambien hago prueba
 
 ##Extraer del material de Scrum: Definición de Scrum, ceremonias, artefactos y roles
 
+**Deficinion de srum**
+Es un marco de trabajo con enfoque ágil para la gestión de un proyecto. Utiliza procesos interactivos/incrementales.
+
+**Ceremonias de scrum**
+es un evento en el que el equipo se reúne para hablar sobre cuáles son los próximos pasos a segui
 
 
 #Extraer conceptos generales de Historia y Evolución de bases de Datos a partir de la década del 70
