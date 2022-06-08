@@ -47,7 +47,11 @@ Algunos tipos de entidad-relación pueden ser:
 
 #Extraer los conceptos generales de El Modelo Entidad - Relacion - Modelizacion del analisis de requerimientos
 
-
+El ciclo de Vida de un Software comprende varias etapas las cuales son: análisis, diseño, codificaación, pruebas, integración, documentación, evolución, para llegar nuevamente a la primera etapa de análisis generando un círculo que se retroalimenta.
+Para llevar acabo un modelo de entidad-relación es necesario entender que este es parte de este esquema. Y particularmente va a ser influenciado por las 3 primeras etapas:
+1- Análisis: Observar leer y entender los alcances del pedido de cliente; conocer sus implicancias y su esfera de acción. Investigar exhaustivamente el Sistema De Información de la empresa o negocio. Un Sistema de Información de una empresa se refiere a toda la información que necesitamos en el software basado en los pedidos que nos hizo el cliente)
+2 -Modelar o Diseño: En donde se elabora el diagrama , el cual es un modelo, basado en el análisis realizado. Existen varios diagramas para realizar este trabajo especialmente diseñados, que se lo conoce como el lenguaje UML. En el trabajo que debemos realizar aparte de la programación y de la sistematización de ciertos procesos de la empresa ,los cuales van a trabajar con datos de la misma, se hace necesario la creación de una Base de Datos y específicamente necesitamos primero crear la estrucutra de la BBDD. Se usa en estos casos el Diagrama Entidad-Relación.
+3- Codificación: Es básicamente llevar a código en el lenguaje que empleemos este diagrama de entidad-relación. 
 
 
 #Destacar los puntos mas importantes de Modelo Entidad-Relación: Caso Lavanderia
