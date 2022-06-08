@@ -59,7 +59,7 @@ Prueba de guardado tambien hago prueba
 
 
 
-#Extraer los conceptos generales del Modelo de Entidad Relacion.
+########Extraer los conceptos generales del Modelo de Entidad Relacion.
 
  El modelo entidad / relación es el conceptual más utilizado para el diseño conceptual de base de datos, fue creado
 por Peter Chen en 1976. Está formado por un conjunto de conceptos que permiten describir la realidad mediante un
