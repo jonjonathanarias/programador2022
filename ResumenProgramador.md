@@ -126,6 +126,44 @@ con dichas claves candidatas se logra que en cada entidad no haiga **informacion
 
 #Hacer un Breve Resumen de Moral vs Ética
 
+Moral y ética
+
+La ética es una rama de la filosofía y la moral forma parte de la vida diaria. 
+
+Ética: Búsqueda del bien, de la realización personal en armonía con los demás seres e implica una relación dinámica entre nuestros valores y los de la sociedad. 
+La ética intenta responder la pregunta ¿Cómo deberíamos vivir? Estudia los principios morales, lo que es bueno o malo. 
+
+Etimología: Proviene del griego Ethos “Manera de hacer costumbre” 
+
+Campo de uso: Estudia valores fundamentales como el bien y el mal. Qué es lo justo y deseable y que no. Toma postura frente a temas como la libertad, desigualdad, problemas sociales, ambientales y la vigencia o no de nuestros códigos morales, entre otros. 
+
+¿Qué la gobierna? En el campo laboral, existe la ética laboral. Las profesiones tienen códigos éticos, algunos de cumplimiento obligatorio. 
+
+Consistencia:  Continuamente se pregunta por la naturaleza y el bien en las actividades humanas y sobre la validez de la moralidad en cada sociedad. 
+Una postura ética puede entrar en conflicto con códigos y valores morales de determinadas sociedades. 
+Los principios éticos de occidente están influenciados por los valores judeocristianos grecolatinos. 
+La ética es constante, no suele cambiar con el tiempo. 
+
+Ejemplos
+Declaración de derechos humanos de la ONU 1948. 
+Juramento hipocrático. Lo realizan los profesionales de la medicina al concluir sus estudios. 
+Ejemplo de influencia, por el judeocristianismo consideramos natural amar al prójimo y consideramos malo el asesinato y el robo. 
+Por influencia grecolatina heredamos la defensa de la igualdad de derechos y la libertad. 
+
+Moral: Código de normas impuestos por una sociedad para regular la conducta o el comportamiento de los individuos. Se rige por reglas o valores. 
+
+Etimología: Del latín Moralis, que deriva de mos - moris, que significa costumbre, principios y reglas. 
+
+Campo de uso: Los códigos morales se aplican en la vida cotidiana y a la conducta humana, es la sociedad la que establece el código moral. Es punitiva, puede tener sanciones y penas no respetar las reglas o valores. 
+
+¿Qué la gobierna? Tiende a ser normativa, tiene reglamentos y prohibiciones, además de normas de comportamiento y valores (honradez, discreción, respeto, etc)
+
+Consistencia: puede variar en el tiempo y espacio. Se va modificando con las dinámicas y procesos sociales, religiosos, políticos, etc.
+
+Ejemplos
+Comportamiento moral. La cortesía verbal, no mentir, etc.
+Coherencia en la vida pública y privada: ser honrados en el trabajo y la vida diaria. 
+Respetar normas. De vestir, de conducta, etc. 
 
 
 
