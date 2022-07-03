@@ -6,7 +6,25 @@ Prueba de guardado tambien hago prueba
 
 
 ##Extraer del material de Scrum: Definición de Scrum, ceremonias, artefactos y roles
+***Ceremonia:***
+El marco de trabajo Scrum propone realizar un total de 4 ceremonias (a modo de reuniones o eventos) durante un Sprint para ayudar a alcanzar los resultados esperados. Estas ceremonias son:
 
+Sprint Planning Meeting (al inicio de un Sprint, se planifica qué es lo que se hará en el mismo y cómo se hará, se establece un Objetivo)
+Daily Scrum Meeting (reunión diaria, con una duración de hasta 20 minutos, en la que se evalúa qué se hizo, qué se hará y qué problemas se encontraron. Se inspecciona el progreso hacia el Objetivo)
+Sprint Review Meeting (al final del Sprint, se muestra lo que se ha completado y lo que no. Debe estar presente el Product Owner)
+Sprint Retrospective Meeting (se realiza también al finalizar el Sprint, y se documenta qué funcionó bien durante el mismo, y qué se puede mejorar para el próximo) ! Imagen Ceremonias
+***Artefactos:***
+Se denomina artefactos a los elementos físicos producidos como resultado de la aplicación de Scrum. Los tres principales artefactos de Scrum son:
+
+El Product Backlog (lista de requerimientos del producto),
+El Sprint Backlog (se compone de los elementos del Product Backlog seleccionados para ser ejecutados en el Sprint en curso, así como de un plan de acción para entregar el Increment al final del Sprint),
+Y el Product Increment (paso concreto hacia el Objetivo del Producto, representa la suma de todos los elementos del Sprint Backlog que cumplan con la "Definición de Terminado", más los Incrementos de Sprints anteriores). ! Imagen Artefactos
+***Roles:***
+Un Scrum Team se compone de los siguientes roles específicos con el propósito de crear un Increment valioso y útil en cada Sprint:
+
+Scrum Master --> responsable de lograr la efectividad en el Scrum Team, mantiene y facilita las reuniones, promueve la autogestión y la responsabilidad. Asiste en caso de problemas o impedimentos (se centra en cómo trabajar mejor de acuerdo al marco de trabajo Scrum)
+Product Owner --> gestiona el Product Backlog (decide qué hacer y por qué)
+Development Team --> realiza el trabajo según lo que se haya planificado a partir de metas diarias hacia el Objetivo del Sprint. ! Imagen Scrum Team
 
 
 #Extraer conceptos generales de Historia y Evolución de bases de Datos a partir de la década del 70
