@@ -1,5 +1,5 @@
-### Programador2022
-### Repositorio para las tares de el modulo de Programador ISPC - Aula 21- Grupo 4
+# Programador2022
+## Repositorio para las tares de el modulo de Programador ISPC - Aula 21- Grupo 4
 
 Cada estudiante deberá  resolver  UN (1) ejercicio a elección de los 10 ejercicios propuestos por el docente y subir en su propia rama del GitHub.
 
@@ -66,6 +66,46 @@ Que representa montos de atención en pesos por diferentes servicios/consultas d
 Ordenarla alfabéticamente y mostrarla por pantalla.
 
 El archivo debe ser subido a la rama de la persona que creó el código, ya que los docentes verificaremos la participación por el historial.
+
+ ---
+ 
+ ***
+ 
+## BASE DE DATOS
+
+- Crear Base de Datos y Tablas según Modelo Relacional.
+- Realizar puntos 1 y 2
+- Elegir algunos de los puntos 3 al 12 y agregarlo al script  (diferentes entre cada uno de los integrantes)
+- Subir Script .sql con todos los puntos mencionados a su rama del GitHub grupal
+
+ 
+ ***
+ 
+1. Realice la consulta correspondiente para crear la tabla Perro, teniendo en cuenta sus claves foráneas y primarias.
+
+2. Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
+
+3.  Borre un animal que ya no va a ser atendido. Para ello consulte antes en el historial, algún animal que ya no sea atendido desde hace mucho tiempo.
+
+ 4.  Actualice la fecha de nacimiento de algún animal (perro) que usted considere.
+
+5.   Realice una consulta multitabla que arroje el nombre de todos los perros cuyos dueños se llaman Pedro
+
+6. Obtener todos los perros que asistieron a la peluquería en 2022
+
+7.   Obtener los ingresos percibidos en Julio del 2022
+
+8.  Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
+
+9. Escriba una consulta que permita actualizar la dirección de un dueño. Su nueva dirección es Libertad 123
+
+10.  Vaciar la tabla historial y resetear el contador del campo ID.
+
+11. Obtener todos los dueños que tengan perros de menos de 5 años de edad que no hayan visitado la peluquería en el año 2022.
+
+12.   Obtener todos los perros de sexo “Macho” nacidos entre 2020 y 2022.
+
+- El archivo (.sql) debe ser subido a la rama de la persona que creó el código, ya que los docentes verificaremos la participación por el historial.
 
 
 
