@@ -107,5 +107,8 @@ El archivo debe ser subido a la rama de la persona que creó el código, ya que 
 
 - El archivo (.sql) debe ser subido a la rama de la persona que creó el código, ya que los docentes verificaremos la participación por el historial.
 
+ ---
+ ***
+ ---
 
 
