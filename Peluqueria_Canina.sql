@@ -64,7 +64,8 @@ insert into Perro values
 insert into Historial values
 (6, '2022-08-13', 5, 'Baño', 5960)
 
-/*Ejercicio Nº5*/
+/*Ejercicio Nº7*/
+/*Obtener los ingresos percibidos en Julio del 2022*/
 
 
 select Monto as Ingresos
